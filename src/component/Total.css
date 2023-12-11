@@ -1,0 +1,73 @@
+.main-1{
+    display: flex;
+    width: 80%;
+    height: 700px;
+    background-color: rgb(179, 179, 224);
+
+    /* align-items: center; */
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+
+.videoplayer-1{
+
+    width: 70%;
+    margin-left: 1%;
+    background-color: antiquewhite;
+    margin-right: 1%;
+}
+.vp-1{
+
+    width: 80%;
+
+
+}
+
+.searchvideo-1{
+    width: 60%;
+    height: 60px;
+    margin-left: 20%;
+    margin-top: 20px;
+    display: flex;
+    background-color: aquamarine;
+}
+.inputsearch{
+    width: 60%;
+padding-top: 15px;
+padding-left: 10%;
+
+}
+
+.searchbutton{
+    width: 20%;
+    padding-top: 15px;
+    padding-left: 10%;
+
+}
+.playing-1{
+
+    width: 80%;
+}
+.list-1{
+    /* padding-top: 30px; */
+    margin-left: 2%;
+    background-color: aquamarine;
+    margin-right: 1%;
+width: 25%;
+
+background-color: aqua;
+}
+
+.list-2{
+    width: 95%;
+    margin-left: 2.5%;
+    margin-top: 5px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+.imgdiv{
+    width: 5%;
+
+}
