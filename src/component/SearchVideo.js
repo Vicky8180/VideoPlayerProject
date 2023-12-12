@@ -4,9 +4,7 @@ import "./Total.css"
 import { useDispatch } from 'react-redux';
 import { ListState } from './action';
 export default function SearchVideo() {
-    // const api_key = 'AIzaSyAqByub8RUO62_WnAk7yweQHJgWgGzJ-Ig';
-    
-    console.log(process.env.REACT_APP_api_key)
+   
     
     const max_results = 10;
   
